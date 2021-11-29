@@ -1,4 +1,4 @@
-package jenkins_template
+package main
 
 import (
 	"fmt"
